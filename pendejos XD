@@ -1,0 +1,14 @@
+PS C:\Users\Usuario> Start-Sleep -Seconds 2
+PS C:\Users\Usuario> Write-Host "Cargando módulo de seguridad avanzada..." -ForegroundColor Cyan
+Cargando módulo de seguridad avanzada...
+PS C:\Users\Usuario> Start-Sleep -Seconds 2
+PS C:\Users\Usuario> Write-Host "Analizando paquetes del sistema..." -ForegroundColor Yellow
+Analizando paquetes del sistema...
+PS C:\Users\Usuario> Start-Sleep -Seconds 2
+PS C:\Users\Usuario> Write-Host "Iniciando protocolo de protección nivel 5..." -ForegroundColor Red
+Iniciando protocolo de protección nivel 5...
+PS C:\Users\Usuario> Start-Sleep -Seconds 3
+PS C:\Users\Usuario>
+PS C:\Users\Usuario> # 🎶 Rick Roll 🎶
+PS C:\Users\Usuario> Start-Process "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+PS C:\Users\Usuario> Write-Host "`n¡Nunca te voy a abandonar! 🎶" -ForegroundColor Green
